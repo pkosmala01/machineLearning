@@ -52,9 +52,9 @@ uczący i testowy, dzięki czemu powinniśmy zmniejszyć różnorodność
 uzyskanych wyników, co wynika z faktu, że wykorzystywany jest cały zbiór
 danych w różnych konfiguracjach.
 
-  n-krotność   3       4       5
-  ------------ ------- ------- -------
-  dokładność   0,893   0,927   0,921
+| n-krotność    | 3     | 4     | 5     |
+| ------------- | ----- | ----- | ----- |
+| dokładność    | 0,893 | 0,927 | 0,921 |
 
 Eksperyment został przeprowadzony dla podziału na 3, 4 i 5 zbiorów.
 Wyniki dla wszystkich sytuacji

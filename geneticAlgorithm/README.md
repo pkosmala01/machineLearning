@@ -32,10 +32,10 @@ Prawdopodobieństwo mutacji: 0.05
 
 Prawdopodobieństwo krzyżowania: 0.5
 
-  Średnia wartość wyniku          13,45
-  ------------------------------- ------------
-  Odchylenie standardowe wyniku   **10,746**
-  Średni czas trwania             **0,376s**
+| Średnia wartość wyniku           | 13,45    |
+| -------------------------------- | -------- |
+| Odchylenie standardowe wyniku    |**10,746**|
+| Średni czas trwania              |**0,376** |
 
 Większy rozmiar populacji
 -------------------------
@@ -51,10 +51,10 @@ Prawdopodobieństwo mutacji: 0.05
 
 Prawdopodobieństwo krzyżowania: 0.5
 
-  Średnia wartość wyniku          1,072
-  ------------------------------- -------------
-  Odchylenie standardowe wyniku   **0,227**
-  Średni czas trwania             **15,811s**
+| Średnia wartość wyniku           | 1,072    |
+| -------------------------------- | -------- |
+| Odchylenie standardowe wyniku    |**0,227** |
+| Średni czas trwania              |**15,811**|
 
 Zwiększenie rozmiaru populacji poprawiło efekty działania algorytmu,
 kosztem znacznego wydłużenia czasu działania.
@@ -74,10 +74,10 @@ Prawdopodobieństwo mutacji: 0.05
 
 Prawdopodobieństwo krzyżowania: 0.1
 
-  Średnia wartość wyniku          2,028
-  ------------------------------- -------------
-  Odchylenie standardowe wyniku   **1,367**
-  Średni czas trwania             **15,441s**
+| Średnia wartość wyniku           | 2,028    |
+| -------------------------------- | -------- |
+| Odchylenie standardowe wyniku    |**1,367** |
+| Średni czas trwania              |**15,441**|
 
 Na podstawie wyników eksperymentu widać, że zmniejszenie
 prawdopodobieństwa krzyżowania pogarsza uzyskiwane wyniki, ponieważ
@@ -97,10 +97,11 @@ Prawdopodobieństwo mutacji: 0.5
 
 Prawdopodobieństwo krzyżowania: 0.5
 
-  Średnia wartość wyniku          1,392
-  ------------------------------- -------------
-  Odchylenie standardowe wyniku   **1,08**
-  Średni czas trwania             **16,862s**
+| Średnia wartość wyniku           | 1,392    |
+| -------------------------------- | -------- |
+| Odchylenie standardowe wyniku    |**1,08**  |
+| Średni czas trwania              |**16,862**|
+
 
 Zwiększenie prawdopodobieństwa mutacji nie wpłynęło pozytywnie na
 działanie algorytmu, ponieważ potencjalnie doprowadziło do utraty już

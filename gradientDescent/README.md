@@ -31,22 +31,19 @@ przedstawiam wynikowe wykresy dla poszczególnych parametrów:
 
 skok = 0.1, punkt początkowy = (7, 8)
 
-![](./graphs/image1.png){width="6.3in"
-height="7.434722222222222in"}
+![](./graphs/image1.png)
 
 Liczba iteracji: 34
 
 skok = 0.4, punkt początkowy = (7, 8)
 
-![](./graphs/image2.png){width="6.3in"
-height="7.033333333333333in"}
+![](./graphs/image2.png)
 
 Liczba iteracji: 5
 
 skok = 0.8, punkt początkowy = (7, 8)
 
-![](./graphs/image3.png){width="6.3in"
-height="7.329861111111111in"}
+![](./graphs/image3.png)
 
 Liczba iteracji: 15
 
@@ -72,22 +69,19 @@ wynikowe wykresy:
 
 skok = 0.001, punkt początkowy: x = 0.5
 
-![](./graphs/image4.png){width="6.3in"
-height="7.0375in"}
+![](./graphs/image4.png)
 
 Liczba iteracji: 34
 
 skok = 0.001, punkt początkowy: x = 3.5
 
-![](./graphs/image5.png){width="6.3in"
-height="6.864583333333333in"}
+![](./graphs/image5.png)
 
 Liczba iteracji: 28
 
 skok = 0.001, punkt początkowy: x = -9
 
-![](./graphs/image6.png){width="6.3in"
-height="7.274305555555555in"}
+![](./graphs/image6.png)
 
 Liczba iteracji: 16
 
