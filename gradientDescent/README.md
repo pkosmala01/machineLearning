@@ -31,19 +31,22 @@ przedstawiam wynikowe wykresy dla poszczególnych parametrów:
 
 skok = 0.1, punkt początkowy = (7, 8)
 
-![](media/image1.png){width="6.3in" height="7.434722222222222in"}
+![](./gradientDescent/graphs/media/image1.png){width="6.3in"
+height="7.434722222222222in"}
 
 Liczba iteracji: 34
 
 skok = 0.4, punkt początkowy = (7, 8)
 
-![](media/image2.png){width="6.3in" height="7.033333333333333in"}
+![](./gradientDescent/graphs/media/image2.png){width="6.3in"
+height="7.033333333333333in"}
 
 Liczba iteracji: 5
 
 skok = 0.8, punkt początkowy = (7, 8)
 
-![](media/image3.png){width="6.3in" height="7.329861111111111in"}
+![](./gradientDescent/graphs/media/image3.png){width="6.3in"
+height="7.329861111111111in"}
 
 Liczba iteracji: 15
 
@@ -69,19 +72,22 @@ wynikowe wykresy:
 
 skok = 0.001, punkt początkowy: x = 0.5
 
-![](media/image4.png){width="6.3in" height="7.0375in"}
+![](./gradientDescent/graphs/media/image4.png){width="6.3in"
+height="7.0375in"}
 
 Liczba iteracji: 34
 
 skok = 0.001, punkt początkowy: x = 3.5
 
-![](media/image5.png){width="6.3in" height="6.864583333333333in"}
+![](./gradientDescent/graphs/media/image5.png){width="6.3in"
+height="6.864583333333333in"}
 
 Liczba iteracji: 28
 
 skok = 0.001, punkt początkowy: x = -9
 
-![](media/image6.png){width="6.3in" height="7.274305555555555in"}
+![](./gradientDescent/graphs/media/image6.png){width="6.3in"
+height="7.274305555555555in"}
 
 Liczba iteracji: 16
 
